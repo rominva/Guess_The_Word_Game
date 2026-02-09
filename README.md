@@ -44,7 +44,7 @@ pip install colorama
 3. Run the Python script:
 
 ```bash
-python GuessTheWord.py
+python guess_the_word.py
 ```
 
 4. The program will display the word as underscores:
